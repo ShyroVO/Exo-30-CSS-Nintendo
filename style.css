@@ -1,70 +1,70 @@
 
-    body {
-        padding: 0;
-        margin: 0;
-        font-size: 11px;
-        font-family: Arial, sans-serif;
-    }
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+}
 
-    header {
-        position: fixed;
-        background: #ff0000;
-        color: white;
-        width: 100%;
-        padding: 17px 12px 10px 12px;
-    }
+header {
+    position: fixed;
+    background: #ff0000;
+    color: white;
+    width: 100%;
+    padding: 17px 12px 10px 12px;
+}
 
-    a {
-        text-decoration-line: none;
-        color: white;
-    }
+a {
+    text-decoration-line: none;
+    color: white;
+}
 
-    header .hautDroite {
-        position: absolute;
-        top: 10px;
-        right: 3%;
-    }
+header .hautDroite {
+    position: absolute;
+    top: 10px;
+    right: 3%;
+}
 
-    .textConnexion {
-        position: relative;
-        top: -17px
-    }
+.textConnexion {
+    position: relative;
+    top: -17px
+}
 
-    .menuL {
-        height: 100%;
-        width: 87px;
-        position: fixed;
-        top: 74px;
-        float: left;
-        background: #7c0000 ;
-    }
+.menuL {
+    height: 100%;
+    width: 87px;
+    position: fixed;
+    top: 74px;
+    float: left;
+    background: #7c0000 ;
+}
 
-    .menuBlock {
-        text-align: center;
-        font-size: 13px;
-        color: white;
-        height: 100px;
-        width: 85px;
-        border: solid #ea0000 1px;
-        background: #ff0000 ;
-        padding-top: 10px;
-        border-radius: 0 15% 0 0;
-    }
+.menuBlock {
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    height: 100px;
+    width: 85px;
+    border: solid #ea0000 1px;
+    background: #ff0000 ;
+    padding-top: 10px;
+    border-radius: 0 15% 0 0;
+}
 
-    .menuBlock:hover{
-        background: #ea0000;
-        transition-duration: 0.5s;
-    }
+.menuBlock:hover{
+    background: #ea0000;
+    transition-duration: 0.5s;
+}
 
-    .Top {
-        height: 50px;
-        width: 87px;
-        padding-left: 25%;
-        padding-top: 6%;
-    }
+.Top {
+    height: 50px;
+    width: 87px;
+    padding-left: 25%;
+    padding-top: 6%;
+}
 
 
-    /*  #ea0000 rouge fonces
-        	#7c0000
-        #ff0000 rouge
-    */
+/*  #ea0000 rouge fonces
+    #7c0000
+    #ff0000 rouge
+*/
